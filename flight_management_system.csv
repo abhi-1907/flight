@@ -1,0 +1,6 @@
+name,source,destination,distance,seats,availability
+Flight A,New York,Los Angeles,2451,180,True
+Flight B,Chicago,Miami,1197,150,False
+Flight C,San Francisco,Seattle,679,200,True
+Flight D,Dallas,Denver,641,220,True
+Flight E,Boston,Atlanta,937,170,False
